@@ -6,7 +6,7 @@
 }
 
 .textbox {
-    display: block; /* Já está definido para oculto inicialmente */
+    display: none; /* Já está definido para oculto inicialmente */
     flex-direction: column;
     justify-content: center;
     align-items: center;

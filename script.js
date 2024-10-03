@@ -10,7 +10,6 @@ let warning = '';
 let playing = false;
 
 reset();
-
 // Events -------------------------------------------------------------------------
 document.querySelector('.reset').addEventListener('click', reset);
 
